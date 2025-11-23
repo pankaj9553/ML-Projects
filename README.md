@@ -72,9 +72,4 @@ pip install -r requirements.txt
 # Start Jupyter Notebook / JupyterLab
 jupyter notebook
 
-## contact
-**Pankaj Kumar Yadav**
-pankajkumar.666y@gmail.com
-
-
 
